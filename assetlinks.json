@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.wegmans.wegmans2go",
+    "sha256_cert_fingerprints":
+    ["B5:54:28:0D:A5:82:90:B3:24:F7:56:70:4F:E1:F0:97:0A:2A:A5:45:14:A4:3A:15:7D:56:6C:18:7B:9B:0E:DA"]
+  }
+}]
